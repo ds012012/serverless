@@ -1,0 +1,1 @@
+from ecommercetools import seo
